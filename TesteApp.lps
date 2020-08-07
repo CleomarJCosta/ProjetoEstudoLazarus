@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="TesteApp.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="21" Y="2"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../ccr/mORMot/SynTests.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="440"/>
+        <CursorPos X="15" Y="450"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="testepessoa.pas"/>
+        <UnitName Value="TestePessoa"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <CursorPos X="45" Y="6"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../ccr/mORMot/SQLite3/mORMot.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="1200"/>
+        <CursorPos Y="1209"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="21">
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="9" Column="63"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="10"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="9" Column="37"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="3" Column="18"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="14" Column="67"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="3" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="6" Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="9" Column="54"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="3" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="9" Column="57"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="3" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="3" Column="4"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="3" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="9" Column="54"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="3" Column="2"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="3"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="11" Column="32"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="12" Column="49"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="2" Column="2"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Column="18"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="5" Column="47"/>
+      </Position>
+      <Position>
+        <Filename Value="TesteApp.lpr"/>
+        <Caret Line="10" Column="36"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+    <HistoryLists>
+      <List Name="LaunchingApplication" Type="File" Count="2">
+        <Item1 Value="/usr/bin/xterm -T &apos;Lazarus Run Output&apos; -e $(LazarusDir)/tools/runwait.sh $(TargetCmdLine)"/>
+        <Item2 Value="/usr/bin/gnome-terminal -t &apos;Lazarus Run Output&apos; -e &apos;$(LazarusDir)/tools/runwait.sh $(TargetCmdLine)&apos;"/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="SynLog"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="AplicacaoTeste.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="87" Y="13"/>
+        <UsageCount Value="34"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="pessoas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="46"/>
+        <CursorPos X="20" Y="64"/>
+        <UsageCount Value="34"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="testepessoa.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TestePessoa"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="45"/>
+        <CursorPos Y="63"/>
+        <UsageCount Value="34"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="testefuncoes.pas"/>
+        <UnitName Value="TesteFuncoes"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../ccr/mORMot/SynCommons.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="21567"/>
+        <CursorPos Y="21582"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../ccr/mORMot/SQLite3/mORMot.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="174"/>
+        <CursorPos X="3" Y="183"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../ccr/mORMot/SynTests.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="441"/>
+        <CursorPos X="15" Y="450"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../vipsistemas/Testes/Regressao/testeRegressao.pas"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="4"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="AplicacaoTeste.lpr"/>
+        <Caret Line="16" Column="35"/>
+      </Position>
+      <Position>
+        <Filename Value="AplicacaoTeste.lpr"/>
+        <Caret Line="11" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="AplicacaoTeste.lpr"/>
+        <Caret Line="9" Column="72"/>
+      </Position>
+      <Position>
+        <Filename Value="AplicacaoTeste.lpr"/>
+        <Caret Line="8" Column="46"/>
+      </Position>
+      <Position>
+        <Filename Value="AplicacaoTeste.lpr"/>
+        <Caret Line="7" Column="40"/>
+      </Position>
+      <Position>
+        <Filename Value="../ccr/mORMot/SQLite3/mORMot.pas"/>
+        <Caret Line="183" Column="3" TopLine="173"/>
+      </Position>
+      <Position>
+        <Filename Value="AplicacaoTeste.lpr"/>
+        <Caret Line="7" Column="40"/>
+      </Position>
+      <Position>
+        <Filename Value="../ccr/mORMot/SQLite3/mORMot.pas"/>
+        <Caret Line="183" Column="5" TopLine="174"/>
+      </Position>
+      <Position>
+        <Filename Value="../ccr/mORMot/SQLite3/mORMot.pas"/>
+        <Caret Line="183" Column="3" TopLine="174"/>
+      </Position>
+      <Position>
+        <Filename Value="testepessoa.pas"/>
+        <Caret Line="63" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="AplicacaoTeste.lpr"/>
+        <Caret Line="7" Column="40"/>
+      </Position>
+      <Position>
+        <Filename Value="AplicacaoTeste.lpr"/>
+        <Caret Line="9" Column="68"/>
+      </Position>
+      <Position>
+        <Filename Value="AplicacaoTeste.lpr"/>
+        <Caret Line="13" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="AplicacaoTeste.lpr"/>
+        <Caret Line="14" Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="../ccr/mORMot/SQLite3/mORMot.pas"/>
+        <Caret Line="183" Column="3" TopLine="174"/>
+      </Position>
+      <Position>
+        <Filename Value="AplicacaoTeste.lpr"/>
+        <Caret Line="9" Column="88"/>
+      </Position>
+      <Position>
+        <Filename Value="AplicacaoTeste.lpr"/>
+        <Caret Line="5" Column="69"/>
+      </Position>
+      <Position>
+        <Filename Value="AplicacaoTeste.lpr"/>
+        <Caret Line="9" Column="71"/>
+      </Position>
+      <Position>
+        <Filename Value="AplicacaoTeste.lpr"/>
+        <Caret Line="12" Column="81"/>
+      </Position>
+      <Position>
+        <Filename Value="../ccr/mORMot/SynTests.pas"/>
+        <Caret Line="450" Column="21" TopLine="441"/>
+      </Position>
+      <Position>
+        <Filename Value="../ccr/mORMot/SynTests.pas"/>
+        <Caret Line="465" Column="23" TopLine="457"/>
+      </Position>
+      <Position>
+        <Filename Value="AplicacaoTeste.lpr"/>
+        <Caret Line="12" Column="81"/>
+      </Position>
+      <Position>
+        <Filename Value="../ccr/mORMot/SynTests.pas"/>
+        <Caret Line="450" Column="21" TopLine="441"/>
+      </Position>
+      <Position>
+        <Filename Value="AplicacaoTeste.lpr"/>
+        <Caret Line="9" Column="85"/>
+      </Position>
+      <Position>
+        <Filename Value="../ccr/mORMot/SynTests.pas"/>
+        <Caret Line="450" Column="21" TopLine="441"/>
+      </Position>
+      <Position>
+        <Filename Value="../ccr/mORMot/SynTests.pas"/>
+        <Caret Line="465" Column="23" TopLine="457"/>
+      </Position>
+      <Position>
+        <Filename Value="AplicacaoTeste.lpr"/>
+        <Caret Line="13" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="../ccr/mORMot/SynTests.pas"/>
+        <Caret Line="451" Column="31" TopLine="459"/>
+      </Position>
+      <Position>
+        <Filename Value="../ccr/mORMot/SynTests.pas"/>
+        <Caret Line="450" Column="25" TopLine="441"/>
+      </Position>
+      <Position>
+        <Filename Value="AplicacaoTeste.lpr"/>
+        <Caret Line="12" Column="66"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+    <HistoryLists>
+      <List Name="LaunchingApplication" Type="File" Count="2">
+        <Item1 Value="/usr/bin/xterm -T &apos;Lazarus Run Output&apos; -e $(LazarusDir)/tools/runwait.sh $(TargetCmdLine)"/>
+        <Item2 Value="/usr/bin/gnome-terminal -t &apos;Lazarus Run Output&apos; -e &apos;$(LazarusDir)/tools/runwait.sh $(TargetCmdLine)&apos;"/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+</CONFIG>

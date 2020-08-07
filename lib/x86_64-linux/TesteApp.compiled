@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/home/cleomar/fpcupdeluxe/fpc/bin/x86_64-linux/fpc.sh" Date="1596038771"/>
+  <Params Value=" -Tlinux -Px86_64 -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -Fi/home/cleomar/fpcupdeluxe/TestesProjeto/lib/x86_64-linux -Fi/home/cleomar/fpcupdeluxe/ccr/mORMot -Fi/home/cleomar/fpcupdeluxe/ccr/mORMot/SQLite3 -Fi/home/cleomar/fpcupdeluxe/ccr/mORMot/CrossPlatform -Fl/home/cleomar/fpcupdeluxe/ccr/mORMot/static/x86_64-linux -Fu/home/cleomar/fpcupdeluxe/ccr/mORMot -Fu/home/cleomar/fpcupdeluxe/ccr/mORMot/SQLite3 -Fu/home/cleomar/fpcupdeluxe/ccr/mORMot/CrossPlatform -Fu/home/cleomar/fpcupdeluxe/ccr/mORMot/SQLite3/DDD/infra -Fu/home/cleomar/fpcupdeluxe/ccr/mORMot/SQLite3/DDD/dom -Fu/home/cleomar/fpcupdeluxe/TestesProjeto/ -FU/home/cleomar/fpcupdeluxe/TestesProjeto/lib/x86_64-linux/ -FE/home/cleomar/fpcupdeluxe/TestesProjeto/ -o/home/cleomar/fpcupdeluxe/TestesProjeto/TesteApp TesteApp.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
